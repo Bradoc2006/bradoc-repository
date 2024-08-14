@@ -28,3 +28,90 @@ https://www.alura.com.br/artigos/cloud?utm_term=&hsa_kw=&hsa_mt=&gad_source=1
 https://www.oracle.com/br/database/what-is-database/
 https://www.salesforce.com/br/blog/inteligencia-artificial/?d=7013y000002EkAiAAK&nc=7013y000002EkImAAK&ef_id=Cj0KCQjwtsy1BhD7ARIsAHOi4xY3tRqyB3KwRVwWNTiO1pHIAeYunIbAJ6TsxiRcCRtL35P3QZSrifsaAg4KEALw_wcB:G:s&&pcrid=696076319694&pdv=c&gad_source=1
 https://blog.kuriertecnologia.com.br/tudo-o-que-voce-precisa-saber-sobre-jurimetria/?utm_content=&utm_term=&gad_source=1
+
+Zero-rating: A ameaça à neutralidade da rede
+O zero-rating é uma prática controversa na qual os provedores de serviços de internet (ISPs) oferecem acesso gratuito a determinados aplicativos ou serviços online, enquanto outros são cobrados ou têm sua velocidade reduzida. Essa prática viola o princípio da neutralidade da rede, pois cria "vias expressas" para alguns conteúdos, discriminando outros.
+
+Como funciona:
+
+Parcerias: Os ISPs estabelecem parcerias com empresas de tecnologia para oferecer seus serviços gratuitamente aos seus clientes.
+Incentivos: As empresas de tecnologia podem pagar aos ISPs para que seus serviços sejam priorizados.
+Consequências: O zero-rating pode limitar a escolha do consumidor, favorecer grandes empresas e prejudicar startups e pequenas empresas que não podem pagar por essa prática.
+Exemplos:
+
+Planos de dados com aplicativos gratuitos: Muitos planos de dados de celular oferecem acesso gratuito a aplicativos de mensagens instantâneas, redes sociais e serviços de streaming, enquanto outros aplicativos são cobrados.
+Parcerias entre ISPs e provedores de conteúdo: ISPs podem oferecer acesso gratuito a plataformas de streaming de vídeo em troca de uma participação nos lucros.
+Memória (Computação): O cérebro dos computadores
+A memória, em computação, é um componente essencial que armazena temporariamente os dados e instruções que o processador precisa para executar suas tarefas. Existem diferentes tipos de memória, cada um com suas características e funções específicas.
+
+Tipos de memória:
+
+Memória RAM (Random Access Memory): É a memória de acesso aleatório, utilizada para armazenar os dados que o processador está usando ativamente. A RAM é volátil, ou seja, os dados são perdidos quando o computador é desligado.
+Memória ROM (Read-Only Memory): É a memória de somente leitura, utilizada para armazenar informações que não podem ser alteradas, como o BIOS (Basic Input/Output System).
+Memória cache: É uma pequena quantidade de memória extremamente rápida, utilizada para armazenar os dados e instruções que o processador acessa com mais frequência.
+Memória secundária: Inclui dispositivos como discos rígidos e unidades SSD, utilizados para armazenar grandes volumes de dados de forma permanente.
+Funcionamento:
+
+Hierarquia de memória: A memória é organizada em uma hierarquia, com a memória cache sendo a mais rápida e a memória secundária a mais lenta. O processador acessa primeiro a memória cache, depois a RAM e, por último, a memória secundária.
+Capacidade: A capacidade da memória é medida em bytes, kilobytes, megabytes e gigabytes.
+Importância:
+
+A quantidade e a velocidade da memória influenciam diretamente o desempenho do computador. Quanto mais memória RAM um computador tiver, mais programas ele poderá executar simultaneamente e mais rápido ele será.
+
+Em resumo:
+
+Zero-rating: Uma prática que ameaça a neutralidade da rede e pode limitar a escolha do consumidor.
+Memória: Um componente essencial para o funcionamento dos computadores, responsável por armazenar dados e instruções.
+Referências:
+
+Wikipedia: https://dle.rae.es/inv%C3%A1lido
+Techopedia: https://www.techopedia.com/
+
+Servidor: O coração da internet
+Um servidor, em termos computacionais, é um computador que fornece serviços a outros computadores em uma rede. Ele armazena, processa e distribui dados, tornando possível a utilização de diversos serviços online, como páginas da web, e-mail, bancos de dados e muito mais.
+
+Funcionamento:
+
+Hardware: Servidores são construídos com componentes de alta performance, como processadores poderosos, grande quantidade de memória RAM e armazenamento massivo.
+Software: Eles executam sistemas operacionais especializados, como Linux e Windows Server, e softwares específicos para cada tipo de serviço oferecido.
+Rede: Servidores estão conectados à internet, permitindo que usuários de qualquer lugar do mundo acessem os serviços por eles fornecidos.
+Tipos de servidores:
+
+Web servers: Responsáveis por armazenar e servir páginas da web.
+Mail servers: Utilizados para gerenciar o envio e recebimento de e-mails.
+Database servers: Armazenam e gerenciam grandes volumes de dados.
+Game servers: Hospedam jogos online, permitindo que múltiplos jogadores interajam em tempo real.
+Referências:
+
+https://www.controle.net/faq/o-que-sao-servidores
+Rede neural artificial: A inteligência das máquinas
+Redes neurais artificiais são modelos computacionais inspirados no funcionamento do cérebro humano. Elas são compostas por camadas de neurônios artificiais interconectados, capazes de aprender padrões complexos a partir de grandes volumes de dados.   
+
+Funcionamento:
+
+Aprendizado: As redes neurais aprendem através de um processo chamado treinamento, no qual são expostas a um conjunto de dados de entrada e seus respectivos resultados esperados.
+Reconhecimento de padrões: Após o treinamento, as redes neurais são capazes de reconhecer padrões em novos dados, como imagens, textos e sons.
+Aplicações: As redes neurais são utilizadas em diversas áreas, como reconhecimento de imagem, processamento de linguagem natural, tradução automática e carros autônomos.
+Tipos de redes neurais:
+
+Redes neurais artificiais profundas: Possuem múltiplas camadas, permitindo a extração de características mais complexas dos dados.
+Redes neurais convolucionais: Especializadas em processamento de imagens.
+Redes neurais recorrentes: Utilizadas para processar sequências de dados, como texto e séries temporais.
+Referências:
+
+Stanford University: https://cs231n.github.io/
+Neutralidade da rede: A igualdade de tratamento na internet
+A neutralidade da rede é o princípio que garante que todos os dados na internet sejam tratados de forma igual, independentemente de seu conteúdo, origem ou destino. Isso significa que os provedores de internet não podem bloquear, desacelerar ou priorizar determinados tipos de tráfego.
+
+Importância:
+
+Inovação: A neutralidade da rede é fundamental para a inovação, pois permite que novas empresas e serviços surjam e competam em um ambiente justo.
+Liberdade de expressão: Garante que todos tenham acesso igual às informações e possam se expressar livremente online.
+Diversidade: Promove a diversidade de conteúdo e serviços disponíveis na internet.
+Ameaças:
+
+Zero-rating: Prática em que provedores de internet oferecem acesso gratuito a determinados serviços, discriminando outros.
+Fast lanes: Criação de "vias expressas" para determinados tipos de tráfego, prejudicando outros.
+Referências:
+
+Electronic Frontier Foundation (EFF): https://www.eff.org/issues/net-neutrality
