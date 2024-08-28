@@ -1,0 +1,10 @@
+function calcularAreaCirculo(raio) {
+  const pi = 3.14159;
+  const area = pi * raio * raio;
+  return area;
+}
+
+// Exemplo de uso:
+const raioDoCirculo = 5;
+const areaCalculada = calcularAreaCirculo(raioDoCirculo);
+console.log("A área do círculo é:", areaCalculada);
