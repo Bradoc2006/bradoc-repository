@@ -21,3 +21,20 @@ area = calcular_area_circulo(raio)
 
 # Exibe o resultado
 print("A área do círculo é:", area)
+
+
+# Contador até 10
+contador = 0
+while contador < 10:
+    print(contador)
+    contador += 1
+
+
+
+
+idade = 18
+
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
